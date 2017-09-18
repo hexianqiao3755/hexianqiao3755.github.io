@@ -439,9 +439,9 @@ body{
 }
 
 .box01_content .box01_p{
-    font-size: 20px;
+    font-size: 22px;
     font-weight: lighter;
-    line-height: 38px;
+    line-height: 50px;
     -webkit-transition: all ease 0.3s;
     -moz-transition: all ease 0.3s;
     -ms-transition: all ease 0.3s;
@@ -449,7 +449,7 @@ body{
     filter:alpha(opacity=0);
     -moz-opacity:0;
     -khtml-opacity: 0;
-    opacity: 0;
+    /*opacity: 0;*/
     cursor: pointer;
 }
 
